@@ -1,0 +1,26 @@
+1. comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+print(comunitat[0])
+
+
+2. comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+print(comunitat[8])
+
+
+3.comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+print(comunitat[4])
+
+
+4.comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+comunitat.sort()
+print(comunitat)
+
+
+5.comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+comunitat.sort(reverse=True)
+print(comunitat)
+
+
+6.comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+comunitat.pop(3)
+comunitat.sort()
+print(comunitat)
