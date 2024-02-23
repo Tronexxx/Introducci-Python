@@ -6,4 +6,4 @@ En aquest projecte farem un arcade de naus.
 
 ## Nau protagonista
 
-![Nau protagonista](NAVEGOLDA.png)
+![Nau protagonista](naunova.png)
